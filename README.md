@@ -1,0 +1,1 @@
+An up-to-date line chart with Voronoi overlay that shows the total deaths from Coronavirus in California. Each line represents a county in the state. Data from [Johns Hopkins Coronavirus Dataset](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv)
